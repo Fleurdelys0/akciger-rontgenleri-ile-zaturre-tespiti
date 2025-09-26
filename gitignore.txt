@@ -1,0 +1,31 @@
+# Python'a özgü dosyalar
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.egg-info/
+
+# Sanal ortam klasörleri
+venv/
+env/
+.venv/
+
+# Jupyter Notebook geçici dosyaları
+.ipynb_checkpoints/
+
+# İşletim sistemi ve IDE'ye özel dosyalar
+.DS_Store
+.vscode/
+.idea/
+
+# Eğitilmiş modeller ve büyük dosyalar
+*.h5
+*.keras
+*.weights.h5
+
+# Geçici olarak oluşturulan veri klasörleri
+/train_final/
+/val_final/
+
+# Kaggle'a özgü dosyalar
+/kaggle/working/
