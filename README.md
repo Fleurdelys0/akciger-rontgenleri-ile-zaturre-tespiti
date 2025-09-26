@@ -96,3 +96,6 @@ Bu projenin üzerine inşa edilebilecek potansiyel geliştirme alanları şunlar
 * **Çok Sınıflı Teşhis:** Projeyi, COVID-19 veya tüberküloz gibi diğer akciğer hastalıklarını da teşhis edebilen çok sınıflı bir modele dönüştürmek.
 * **K-Fold Çapraz Doğrulama:** Modelin performansını daha güvenilir bir şekilde ölçmek için K-Fold gibi çapraz doğrulama teknikleri uygulamak.
 * **Modeli Hayata Geçirme (Deployment):** Eğitilmiş modeli, Streamlit veya Gradio gibi araçlarla basit bir web arayüzüne entegre ederek canlı tahminler yapabilen bir demo uygulaması oluşturmak.
+
+# Kaggle Notebook Bağlantısı
+[Rontgenle Zaturre Tespiti](https://www.kaggle.com/code/lament1s/rontgenle-zaturre-tespiti)
